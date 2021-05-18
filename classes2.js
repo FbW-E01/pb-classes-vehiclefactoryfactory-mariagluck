@@ -72,7 +72,6 @@ console.log(typeof BoatFactory); // function
 console.log(typeof BlimpFactory); // function
 console.log(typeof TrainFactory); // function
 
-console.log(typeof allVehicles); //object
-
-
+console.log(typeof allVehicles[0]); //object
+console.log(typeof allVehicles[1]); //object
 
